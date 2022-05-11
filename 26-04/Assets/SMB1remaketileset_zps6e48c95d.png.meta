@@ -1,0 +1,5454 @@
+fileFormatVersion: 2
+guid: 2aae49af8ec5a474e8df23baa9783d3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2529099274989598984
+    second: SMB1remaketileset_zps6e48c95d_0
+  - first:
+      213: -1244987471045841553
+    second: SMB1remaketileset_zps6e48c95d_1
+  - first:
+      213: -5864309416597204224
+    second: SMB1remaketileset_zps6e48c95d_2
+  - first:
+      213: -5904272246249041045
+    second: SMB1remaketileset_zps6e48c95d_3
+  - first:
+      213: -6521871734505303805
+    second: SMB1remaketileset_zps6e48c95d_4
+  - first:
+      213: 7117960569637286347
+    second: SMB1remaketileset_zps6e48c95d_5
+  - first:
+      213: 3199984555067634347
+    second: SMB1remaketileset_zps6e48c95d_6
+  - first:
+      213: 6097519267927421867
+    second: SMB1remaketileset_zps6e48c95d_7
+  - first:
+      213: 4459797894163782945
+    second: SMB1remaketileset_zps6e48c95d_8
+  - first:
+      213: -5157089989497035676
+    second: SMB1remaketileset_zps6e48c95d_9
+  - first:
+      213: 653566595345492721
+    second: SMB1remaketileset_zps6e48c95d_10
+  - first:
+      213: -5689040917636974862
+    second: SMB1remaketileset_zps6e48c95d_11
+  - first:
+      213: 1112335281363852195
+    second: SMB1remaketileset_zps6e48c95d_12
+  - first:
+      213: -25002295571192744
+    second: SMB1remaketileset_zps6e48c95d_13
+  - first:
+      213: 4311879646058736303
+    second: SMB1remaketileset_zps6e48c95d_14
+  - first:
+      213: 2256222286717544376
+    second: SMB1remaketileset_zps6e48c95d_15
+  - first:
+      213: 2851485563257335157
+    second: SMB1remaketileset_zps6e48c95d_16
+  - first:
+      213: 6812095631105801682
+    second: SMB1remaketileset_zps6e48c95d_17
+  - first:
+      213: -7169371051976991020
+    second: SMB1remaketileset_zps6e48c95d_18
+  - first:
+      213: -6773502919161008578
+    second: SMB1remaketileset_zps6e48c95d_19
+  - first:
+      213: 4702316792372265433
+    second: SMB1remaketileset_zps6e48c95d_20
+  - first:
+      213: 4613022754985358147
+    second: SMB1remaketileset_zps6e48c95d_21
+  - first:
+      213: 6514648829829433041
+    second: SMB1remaketileset_zps6e48c95d_22
+  - first:
+      213: -837489859709326943
+    second: SMB1remaketileset_zps6e48c95d_23
+  - first:
+      213: 5786835628649465840
+    second: SMB1remaketileset_zps6e48c95d_24
+  - first:
+      213: -2345181227816710155
+    second: SMB1remaketileset_zps6e48c95d_25
+  - first:
+      213: 6914598731121353611
+    second: SMB1remaketileset_zps6e48c95d_26
+  - first:
+      213: -8739490475460634629
+    second: SMB1remaketileset_zps6e48c95d_27
+  - first:
+      213: 4618551596661476966
+    second: SMB1remaketileset_zps6e48c95d_28
+  - first:
+      213: -4254579122321802538
+    second: SMB1remaketileset_zps6e48c95d_29
+  - first:
+      213: -5564308868625836301
+    second: SMB1remaketileset_zps6e48c95d_30
+  - first:
+      213: -1797825061733578612
+    second: SMB1remaketileset_zps6e48c95d_31
+  - first:
+      213: 2919034051021742279
+    second: SMB1remaketileset_zps6e48c95d_32
+  - first:
+      213: -373816182481763594
+    second: SMB1remaketileset_zps6e48c95d_33
+  - first:
+      213: 8370616368208270493
+    second: SMB1remaketileset_zps6e48c95d_34
+  - first:
+      213: 3371123896158035096
+    second: SMB1remaketileset_zps6e48c95d_35
+  - first:
+      213: -2421450849040613512
+    second: SMB1remaketileset_zps6e48c95d_36
+  - first:
+      213: -8223300865117177277
+    second: SMB1remaketileset_zps6e48c95d_37
+  - first:
+      213: -6667343859816570798
+    second: SMB1remaketileset_zps6e48c95d_38
+  - first:
+      213: 1502681029164481996
+    second: SMB1remaketileset_zps6e48c95d_39
+  - first:
+      213: 1076810688913431717
+    second: SMB1remaketileset_zps6e48c95d_40
+  - first:
+      213: 1382508385146650628
+    second: SMB1remaketileset_zps6e48c95d_41
+  - first:
+      213: 4548770034429712047
+    second: SMB1remaketileset_zps6e48c95d_42
+  - first:
+      213: -3952514807800213640
+    second: SMB1remaketileset_zps6e48c95d_43
+  - first:
+      213: -7840364233584108282
+    second: SMB1remaketileset_zps6e48c95d_44
+  - first:
+      213: -8899427138471371586
+    second: SMB1remaketileset_zps6e48c95d_45
+  - first:
+      213: 6935538226533524883
+    second: SMB1remaketileset_zps6e48c95d_46
+  - first:
+      213: -3831867189156710700
+    second: SMB1remaketileset_zps6e48c95d_47
+  - first:
+      213: 7634516809647470619
+    second: SMB1remaketileset_zps6e48c95d_48
+  - first:
+      213: -5172923592306295313
+    second: SMB1remaketileset_zps6e48c95d_49
+  - first:
+      213: 2636465069624646223
+    second: SMB1remaketileset_zps6e48c95d_50
+  - first:
+      213: -6257449269598657974
+    second: SMB1remaketileset_zps6e48c95d_51
+  - first:
+      213: 3159004420219759448
+    second: SMB1remaketileset_zps6e48c95d_52
+  - first:
+      213: 8887582612661845542
+    second: SMB1remaketileset_zps6e48c95d_53
+  - first:
+      213: 1611651311870740753
+    second: SMB1remaketileset_zps6e48c95d_54
+  - first:
+      213: 7115584849013748298
+    second: SMB1remaketileset_zps6e48c95d_55
+  - first:
+      213: -1898847740753965409
+    second: SMB1remaketileset_zps6e48c95d_56
+  - first:
+      213: 8864586572032439035
+    second: SMB1remaketileset_zps6e48c95d_57
+  - first:
+      213: 261527139096887163
+    second: SMB1remaketileset_zps6e48c95d_58
+  - first:
+      213: 6082545233626037571
+    second: SMB1remaketileset_zps6e48c95d_59
+  - first:
+      213: -3828983237971341412
+    second: SMB1remaketileset_zps6e48c95d_60
+  - first:
+      213: -5337601430247627828
+    second: SMB1remaketileset_zps6e48c95d_61
+  - first:
+      213: -5537485180818594310
+    second: SMB1remaketileset_zps6e48c95d_62
+  - first:
+      213: 8800786729989494409
+    second: SMB1remaketileset_zps6e48c95d_63
+  - first:
+      213: -5693253423932011862
+    second: SMB1remaketileset_zps6e48c95d_64
+  - first:
+      213: 505272420980353113
+    second: SMB1remaketileset_zps6e48c95d_65
+  - first:
+      213: -5866051459127436639
+    second: SMB1remaketileset_zps6e48c95d_66
+  - first:
+      213: -7678326817486162904
+    second: SMB1remaketileset_zps6e48c95d_67
+  - first:
+      213: 4440387227050892488
+    second: SMB1remaketileset_zps6e48c95d_68
+  - first:
+      213: -8106206706983651023
+    second: SMB1remaketileset_zps6e48c95d_69
+  - first:
+      213: 2240099501078321090
+    second: SMB1remaketileset_zps6e48c95d_70
+  - first:
+      213: 5397409423968973111
+    second: SMB1remaketileset_zps6e48c95d_71
+  - first:
+      213: -7763311628243644
+    second: SMB1remaketileset_zps6e48c95d_72
+  - first:
+      213: 4480101337717327314
+    second: SMB1remaketileset_zps6e48c95d_73
+  - first:
+      213: 8379295058217395671
+    second: SMB1remaketileset_zps6e48c95d_74
+  - first:
+      213: -1688701399612443220
+    second: SMB1remaketileset_zps6e48c95d_75
+  - first:
+      213: 7778197097653087825
+    second: SMB1remaketileset_zps6e48c95d_76
+  - first:
+      213: -6651041799394497684
+    second: SMB1remaketileset_zps6e48c95d_77
+  - first:
+      213: -7012218403607037029
+    second: SMB1remaketileset_zps6e48c95d_78
+  - first:
+      213: 6406084867089642729
+    second: SMB1remaketileset_zps6e48c95d_79
+  - first:
+      213: 8018452206368844284
+    second: SMB1remaketileset_zps6e48c95d_80
+  - first:
+      213: -3633269410020172908
+    second: SMB1remaketileset_zps6e48c95d_81
+  - first:
+      213: -5556923975944720175
+    second: SMB1remaketileset_zps6e48c95d_82
+  - first:
+      213: 2625258791709871241
+    second: SMB1remaketileset_zps6e48c95d_83
+  - first:
+      213: -2071939021001512753
+    second: SMB1remaketileset_zps6e48c95d_84
+  - first:
+      213: -7289308613453963362
+    second: SMB1remaketileset_zps6e48c95d_85
+  - first:
+      213: -4632059029835366018
+    second: SMB1remaketileset_zps6e48c95d_86
+  - first:
+      213: 5535714652122455653
+    second: SMB1remaketileset_zps6e48c95d_87
+  - first:
+      213: -4828452204680225192
+    second: SMB1remaketileset_zps6e48c95d_88
+  - first:
+      213: 4797494180704691817
+    second: SMB1remaketileset_zps6e48c95d_89
+  - first:
+      213: -4070980920666234455
+    second: SMB1remaketileset_zps6e48c95d_90
+  - first:
+      213: 6092630638464116180
+    second: SMB1remaketileset_zps6e48c95d_91
+  - first:
+      213: 1661765897131233438
+    second: SMB1remaketileset_zps6e48c95d_92
+  - first:
+      213: -7576439409234173328
+    second: SMB1remaketileset_zps6e48c95d_93
+  - first:
+      213: -8209730513261065935
+    second: SMB1remaketileset_zps6e48c95d_94
+  - first:
+      213: 5356398672541494924
+    second: SMB1remaketileset_zps6e48c95d_95
+  - first:
+      213: -7068985431769475783
+    second: SMB1remaketileset_zps6e48c95d_96
+  - first:
+      213: -536084605147699848
+    second: SMB1remaketileset_zps6e48c95d_97
+  - first:
+      213: 6654067510664311934
+    second: SMB1remaketileset_zps6e48c95d_98
+  - first:
+      213: 4430685423570040264
+    second: SMB1remaketileset_zps6e48c95d_99
+  - first:
+      213: -1130518223902005732
+    second: SMB1remaketileset_zps6e48c95d_100
+  - first:
+      213: 3044447256129586792
+    second: SMB1remaketileset_zps6e48c95d_101
+  - first:
+      213: -935167249101350870
+    second: SMB1remaketileset_zps6e48c95d_102
+  - first:
+      213: 5413962713601195213
+    second: SMB1remaketileset_zps6e48c95d_103
+  - first:
+      213: -504368452079758334
+    second: SMB1remaketileset_zps6e48c95d_104
+  - first:
+      213: 3581083785410565542
+    second: SMB1remaketileset_zps6e48c95d_105
+  - first:
+      213: 7949530648919165374
+    second: SMB1remaketileset_zps6e48c95d_106
+  - first:
+      213: -3535523493868807358
+    second: SMB1remaketileset_zps6e48c95d_107
+  - first:
+      213: -6460376924126475183
+    second: SMB1remaketileset_zps6e48c95d_108
+  - first:
+      213: 6012376502038420837
+    second: SMB1remaketileset_zps6e48c95d_109
+  - first:
+      213: -808901259506760829
+    second: SMB1remaketileset_zps6e48c95d_110
+  - first:
+      213: -5710994834403775100
+    second: SMB1remaketileset_zps6e48c95d_111
+  - first:
+      213: -5178432293563777314
+    second: SMB1remaketileset_zps6e48c95d_112
+  - first:
+      213: 5223385710403509632
+    second: SMB1remaketileset_zps6e48c95d_113
+  - first:
+      213: 4199903326288035211
+    second: SMB1remaketileset_zps6e48c95d_114
+  - first:
+      213: -5591691637624533091
+    second: SMB1remaketileset_zps6e48c95d_115
+  - first:
+      213: -7087421746175847335
+    second: SMB1remaketileset_zps6e48c95d_116
+  - first:
+      213: 5104501114808974071
+    second: SMB1remaketileset_zps6e48c95d_117
+  - first:
+      213: 4014184913057478249
+    second: SMB1remaketileset_zps6e48c95d_118
+  - first:
+      213: 5418987699855348316
+    second: SMB1remaketileset_zps6e48c95d_119
+  - first:
+      213: -7902120057213762617
+    second: SMB1remaketileset_zps6e48c95d_120
+  - first:
+      213: -7633918048139128916
+    second: SMB1remaketileset_zps6e48c95d_121
+  - first:
+      213: -939796257841607072
+    second: SMB1remaketileset_zps6e48c95d_122
+  - first:
+      213: 8859361443520248790
+    second: SMB1remaketileset_zps6e48c95d_123
+  - first:
+      213: 1767187201163423030
+    second: SMB1remaketileset_zps6e48c95d_124
+  - first:
+      213: -6609425152845406440
+    second: SMB1remaketileset_zps6e48c95d_125
+  - first:
+      213: -5935194214423960426
+    second: SMB1remaketileset_zps6e48c95d_126
+  - first:
+      213: 2255068755802659008
+    second: SMB1remaketileset_zps6e48c95d_127
+  - first:
+      213: 1033452411346747579
+    second: SMB1remaketileset_zps6e48c95d_128
+  - first:
+      213: -3566679424264985308
+    second: SMB1remaketileset_zps6e48c95d_129
+  - first:
+      213: 2093984832006984638
+    second: SMB1remaketileset_zps6e48c95d_130
+  - first:
+      213: 7714072633642110974
+    second: SMB1remaketileset_zps6e48c95d_131
+  - first:
+      213: 8646474153033660733
+    second: SMB1remaketileset_zps6e48c95d_132
+  - first:
+      213: 8721506249538975145
+    second: SMB1remaketileset_zps6e48c95d_133
+  - first:
+      213: -8593497625760325199
+    second: SMB1remaketileset_zps6e48c95d_134
+  - first:
+      213: 2356879598608372461
+    second: SMB1remaketileset_zps6e48c95d_135
+  - first:
+      213: -4960519876759960399
+    second: SMB1remaketileset_zps6e48c95d_136
+  - first:
+      213: -5013748574951272101
+    second: SMB1remaketileset_zps6e48c95d_137
+  - first:
+      213: 5349023482376733770
+    second: SMB1remaketileset_zps6e48c95d_138
+  - first:
+      213: 8487949348914045709
+    second: SMB1remaketileset_zps6e48c95d_139
+  - first:
+      213: -197154541171353814
+    second: SMB1remaketileset_zps6e48c95d_140
+  - first:
+      213: -3966670652169904457
+    second: SMB1remaketileset_zps6e48c95d_141
+  - first:
+      213: 5774477796017177878
+    second: SMB1remaketileset_zps6e48c95d_142
+  - first:
+      213: 16158791663574255
+    second: SMB1remaketileset_zps6e48c95d_143
+  - first:
+      213: 6919610852087672579
+    second: SMB1remaketileset_zps6e48c95d_144
+  - first:
+      213: 4050939588690166
+    second: SMB1remaketileset_zps6e48c95d_145
+  - first:
+      213: 2258520735284994699
+    second: SMB1remaketileset_zps6e48c95d_146
+  - first:
+      213: -8725891550193410167
+    second: SMB1remaketileset_zps6e48c95d_147
+  - first:
+      213: 5114699289200427159
+    second: SMB1remaketileset_zps6e48c95d_148
+  - first:
+      213: -1527780639190190789
+    second: SMB1remaketileset_zps6e48c95d_149
+  - first:
+      213: 8384803154098562425
+    second: SMB1remaketileset_zps6e48c95d_150
+  - first:
+      213: 743484164255970728
+    second: SMB1remaketileset_zps6e48c95d_151
+  - first:
+      213: 3774557874319313898
+    second: SMB1remaketileset_zps6e48c95d_152
+  - first:
+      213: 6761488231831765256
+    second: SMB1remaketileset_zps6e48c95d_153
+  - first:
+      213: -2824118614178222474
+    second: SMB1remaketileset_zps6e48c95d_154
+  - first:
+      213: -6528133585796663884
+    second: SMB1remaketileset_zps6e48c95d_155
+  - first:
+      213: 7203331522188088756
+    second: SMB1remaketileset_zps6e48c95d_156
+  - first:
+      213: 7347701816397404625
+    second: SMB1remaketileset_zps6e48c95d_157
+  - first:
+      213: 2366186312945145512
+    second: SMB1remaketileset_zps6e48c95d_158
+  - first:
+      213: 1454464221327584680
+    second: SMB1remaketileset_zps6e48c95d_159
+  - first:
+      213: -1381734950433306563
+    second: SMB1remaketileset_zps6e48c95d_160
+  - first:
+      213: -8019490100568677314
+    second: SMB1remaketileset_zps6e48c95d_161
+  - first:
+      213: -8618717172280688875
+    second: SMB1remaketileset_zps6e48c95d_162
+  - first:
+      213: -2365054627422362417
+    second: SMB1remaketileset_zps6e48c95d_163
+  - first:
+      213: -8533036957464956367
+    second: SMB1remaketileset_zps6e48c95d_164
+  - first:
+      213: 3076689241823688399
+    second: SMB1remaketileset_zps6e48c95d_165
+  - first:
+      213: -4768235417922060198
+    second: SMB1remaketileset_zps6e48c95d_166
+  - first:
+      213: 4793256946249184725
+    second: SMB1remaketileset_zps6e48c95d_167
+  - first:
+      213: 8395647884372822979
+    second: SMB1remaketileset_zps6e48c95d_168
+  - first:
+      213: -7209378171863447902
+    second: SMB1remaketileset_zps6e48c95d_169
+  - first:
+      213: -8769865569721689763
+    second: SMB1remaketileset_zps6e48c95d_170
+  - first:
+      213: 2049693161999798590
+    second: SMB1remaketileset_zps6e48c95d_171
+  - first:
+      213: -3689733077988710113
+    second: SMB1remaketileset_zps6e48c95d_172
+  - first:
+      213: -3938036487827356312
+    second: SMB1remaketileset_zps6e48c95d_173
+  - first:
+      213: 5429792903655411135
+    second: SMB1remaketileset_zps6e48c95d_174
+  - first:
+      213: 7854454911010226546
+    second: SMB1remaketileset_zps6e48c95d_175
+  - first:
+      213: -8407578883299409277
+    second: SMB1remaketileset_zps6e48c95d_176
+  - first:
+      213: -2775274471760523000
+    second: SMB1remaketileset_zps6e48c95d_177
+  - first:
+      213: 4645944508462782518
+    second: SMB1remaketileset_zps6e48c95d_178
+  - first:
+      213: 7478537826821388038
+    second: SMB1remaketileset_zps6e48c95d_179
+  - first:
+      213: 156262157685416518
+    second: SMB1remaketileset_zps6e48c95d_180
+  - first:
+      213: -8554345018980523117
+    second: SMB1remaketileset_zps6e48c95d_181
+  - first:
+      213: -3647017882282582785
+    second: SMB1remaketileset_zps6e48c95d_182
+  - first:
+      213: 686123335068951758
+    second: SMB1remaketileset_zps6e48c95d_183
+  - first:
+      213: 8683538092252702197
+    second: SMB1remaketileset_zps6e48c95d_184
+  - first:
+      213: -3767326521957395144
+    second: SMB1remaketileset_zps6e48c95d_185
+  - first:
+      213: -8902370623646759866
+    second: SMB1remaketileset_zps6e48c95d_186
+  - first:
+      213: 7926651648867474839
+    second: SMB1remaketileset_zps6e48c95d_187
+  - first:
+      213: 821630938061785652
+    second: SMB1remaketileset_zps6e48c95d_188
+  - first:
+      213: 8246735816072338651
+    second: SMB1remaketileset_zps6e48c95d_189
+  - first:
+      213: -9120899337156479858
+    second: SMB1remaketileset_zps6e48c95d_190
+  - first:
+      213: 5372488793322349686
+    second: SMB1remaketileset_zps6e48c95d_191
+  - first:
+      213: -3129494055801404119
+    second: SMB1remaketileset_zps6e48c95d_192
+  - first:
+      213: -8738987037540667280
+    second: SMB1remaketileset_zps6e48c95d_193
+  - first:
+      213: -6397422805770422844
+    second: SMB1remaketileset_zps6e48c95d_194
+  - first:
+      213: 2238766976897350760
+    second: SMB1remaketileset_zps6e48c95d_195
+  - first:
+      213: 5477542648867196111
+    second: SMB1remaketileset_zps6e48c95d_196
+  - first:
+      213: 5626770611613268812
+    second: SMB1remaketileset_zps6e48c95d_197
+  - first:
+      213: 2372763767770159895
+    second: SMB1remaketileset_zps6e48c95d_198
+  - first:
+      213: 1948642745930855958
+    second: SMB1remaketileset_zps6e48c95d_199
+  - first:
+      213: 1679179701150970802
+    second: SMB1remaketileset_zps6e48c95d_200
+  - first:
+      213: -1206591196748375609
+    second: SMB1remaketileset_zps6e48c95d_201
+  - first:
+      213: -8011653397757270451
+    second: SMB1remaketileset_zps6e48c95d_202
+  - first:
+      213: 3175179854202880955
+    second: SMB1remaketileset_zps6e48c95d_203
+  - first:
+      213: 7605017885539586579
+    second: SMB1remaketileset_zps6e48c95d_204
+  - first:
+      213: 3057875359114569104
+    second: SMB1remaketileset_zps6e48c95d_205
+  - first:
+      213: -6563512236065927959
+    second: SMB1remaketileset_zps6e48c95d_206
+  - first:
+      213: -5646949944556701872
+    second: SMB1remaketileset_zps6e48c95d_207
+  - first:
+      213: -607417718030559916
+    second: SMB1remaketileset_zps6e48c95d_208
+  - first:
+      213: 7600191610761491924
+    second: SMB1remaketileset_zps6e48c95d_209
+  - first:
+      213: -6219226932393249570
+    second: SMB1remaketileset_zps6e48c95d_210
+  - first:
+      213: -8957487824959341316
+    second: SMB1remaketileset_zps6e48c95d_211
+  - first:
+      213: -8158521309616285431
+    second: SMB1remaketileset_zps6e48c95d_212
+  - first:
+      213: -4524880267056509402
+    second: SMB1remaketileset_zps6e48c95d_213
+  - first:
+      213: 6898143963069744946
+    second: SMB1remaketileset_zps6e48c95d_214
+  - first:
+      213: -7507562082573567601
+    second: SMB1remaketileset_zps6e48c95d_215
+  - first:
+      213: -1798494682804714593
+    second: SMB1remaketileset_zps6e48c95d_216
+  - first:
+      213: -1236822861687903084
+    second: SMB1remaketileset_zps6e48c95d_217
+  - first:
+      213: 8019801535628628547
+    second: SMB1remaketileset_zps6e48c95d_218
+  - first:
+      213: -1420377272079770372
+    second: SMB1remaketileset_zps6e48c95d_219
+  - first:
+      213: -3207590911896875933
+    second: SMB1remaketileset_zps6e48c95d_220
+  - first:
+      213: 2812091689924602659
+    second: SMB1remaketileset_zps6e48c95d_221
+  - first:
+      213: 6620194461164819969
+    second: SMB1remaketileset_zps6e48c95d_222
+  - first:
+      213: 8712346678142708259
+    second: SMB1remaketileset_zps6e48c95d_223
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809f37f046a291320800000000000000
+      internalID: 2529099274989598984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d2086cd7ae8bee0800000000000000
+      internalID: -1244987471045841553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003deb2f7a9cd9ea0800000000000000
+      internalID: -5864309416597204224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63d0299cafcf0ea0800000000000000
+      internalID: -5904272246249041045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301962a3638ad75a0800000000000000
+      internalID: -6521871734505303805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1b77eec6318c260800000000000000
+      internalID: 7117960569637286347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2fa83aff0a86c20800000000000000
+      internalID: 3199984555067634347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3f9e7d77dbe9450800000000000000
+      internalID: 6097519267927421867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 216
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4646e4d5af55e68b0800000000000000
+      internalID: -5157089989497035676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 216
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa21a01b5fe11900800000000000000
+      internalID: 653566595345492721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6f59f5d677c01b0800000000000000
+      internalID: -5689040917636974862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab93d48b0fcf6f00800000000000000
+      internalID: 1112335281363852195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854e8ed6b8c27aff0800000000000000
+      internalID: -25002295571192744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa619951bfd6db30800000000000000
+      internalID: 4311879646058736303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b76e1e3736bf4f10800000000000000
+      internalID: 2256222286717544376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dab101303829720800000000000000
+      internalID: 2851485563257335157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd3d0c62ec698e50800000000000000
+      internalID: 6812095631105801682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de51ff5307418c90800000000000000
+      internalID: -7169371051976991020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e265a8bfeaff1a0800000000000000
+      internalID: -6773502919161008578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d104be653cf14140800000000000000
+      internalID: 4702316792372265433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34332bb31cfb40040800000000000000
+      internalID: 4613022754985358147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6c56a389ea86a50800000000000000
+      internalID: 6514648829829433041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9a809e863a064f0800000000000000
+      internalID: -837489859709326943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 200
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7c9332858fe4050800000000000000
+      internalID: 5786835628649465840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 200
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff021e391e347fd0800000000000000
+      internalID: -2345181227816710155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 200
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83eadc29e695ff50800000000000000
+      internalID: 6914598731121353611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7524467b717b680800000000000000
+      internalID: -8739490475460634629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e02dff434681040800000000000000
+      internalID: 4618551596661476966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da373974d2b4f4c0800000000000000
+      internalID: -4254579122321802538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f65001a09a97c2b0800000000000000
+      internalID: -5564308868625836301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c884313b1a7dc07e0800000000000000
+      internalID: -1797825061733578612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0ab62f00e728820800000000000000
+      internalID: 2919034051021742279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2c1ef9920ffcaf0800000000000000
+      internalID: -373816182481763594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94df1acc376a2470800000000000000
+      internalID: 8370616368208270493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c94549253a8ce20800000000000000
+      internalID: 3371123896158035096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fbddd3847456ed0800000000000000
+      internalID: -2421450849040613512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a378d9e67f0ed80800000000000000
+      internalID: -8223300865117177277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2506048a516d873a0800000000000000
+      internalID: -6667343859816570798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd311a3f689ad410800000000000000
+      internalID: 1502681029164481996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 184
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac570bcd9991fe00800000000000000
+      internalID: 1076810688913431717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4004aab2d08af2310800000000000000
+      internalID: 1382508385146650628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 184
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6df13fe3a702f30800000000000000
+      internalID: 4548770034429712047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_43
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fc89f39b8d529c0800000000000000
+      internalID: -3952514807800213640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d9a83054e613390800000000000000
+      internalID: -7840364233584108282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc51f23b22ee7480800000000000000
+      internalID: -8899427138471371586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3956cae554bff3060800000000000000
+      internalID: 6935538226533524883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6f6d3f71972dac0800000000000000
+      internalID: -3831867189156710700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1839c6c69043f960800000000000000
+      internalID: 7634516809647470619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed785e66651638b0800000000000000
+      internalID: -5172923592306295313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ad3b1230b969420800000000000000
+      internalID: 2636465069624646223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a426b8dea031929a0800000000000000
+      internalID: -6257449269598657974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b661778c907db20800000000000000
+      internalID: 3159004420219759448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62eb5ab3c49075b70800000000000000
+      internalID: 8887582612661845542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11909d9445cbd5610800000000000000
+      internalID: 1611651311870740753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_55
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42bd9e58b2afb260800000000000000
+      internalID: 7115584849013748298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e8ec15a00f5a5e0800000000000000
+      internalID: -1898847740753965409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 168
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2f0ba4586550b70800000000000000
+      internalID: 8864586572032439035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 169
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f7ef02c8121a300800000000000000
+      internalID: 261527139096887163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_59
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d768cc9aa896450800000000000000
+      internalID: 6082545233626037571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f0bc92808bcdac0800000000000000
+      internalID: -3828983237971341412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_61
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3297d67c70de5b0800000000000000
+      internalID: -5337601430247627828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af561502196e623b0800000000000000
+      internalID: -5537485180818594310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986def007eca22a70800000000000000
+      internalID: 8800786729989494409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa8142dc208df0b0800000000000000
+      internalID: -5693253423932011862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958e55ff696130700800000000000000
+      internalID: 505272420980353113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa1c801749979ea0800000000000000
+      internalID: -5866051459127436639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824b166e07a117590800000000000000
+      internalID: -7678326817486162904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccdc8528ac6f9d30800000000000000
+      internalID: 4440387227050892488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_69
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139b952d2f7f08f80800000000000000
+      internalID: -8106206706983651023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_70
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c79d4fa0ae661f10800000000000000
+      internalID: 2240099501078321090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_71
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731340f364377ea40800000000000000
+      internalID: 5397409423968973111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d2e182f4b64eff0800000000000000
+      internalID: -7763311628243644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_73
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 152
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5c4681e648c2e30800000000000000
+      internalID: 4480101337717327314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 152
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5eb35c57c394470800000000000000
+      internalID: 8379295058217395671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_75
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 152
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5356036078098e0800000000000000
+      internalID: -1688701399612443220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e2696bc05b1fb60800000000000000
+      internalID: 7778197097653087825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_77
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6be0d0e8b0c2b3a0800000000000000
+      internalID: -6651041799394497684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_78
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bbb85a3889fae90800000000000000
+      internalID: -7012218403607037029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_79
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e432e7ee3cf6e850800000000000000
+      internalID: 6406084867089642729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9ef015cc3474f60800000000000000
+      internalID: 8018452206368844284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b5472b8b8049dc0800000000000000
+      internalID: -3633269410020172908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0b6f1f517d1e2b0800000000000000
+      internalID: -5556923975944720175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c865b36face6420800000000000000
+      internalID: 2625258791709871241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc82fe0207efe33e0800000000000000
+      internalID: -2071939021001512753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_85
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f91ecbf6c27da90800000000000000
+      internalID: -7289308613453963362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71c504aade97bfb0800000000000000
+      internalID: -4632059029835366018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e1fa9852fc2dc40800000000000000
+      internalID: 5535714652122455653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e55155d44edfcb0800000000000000
+      internalID: -4828452204680225192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_89
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96628e40a8f149240800000000000000
+      internalID: 4797494180704691817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_90
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 136
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1eb40fb68f087c0800000000000000
+      internalID: -4070980920666234455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_91
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 136
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5a059194f5d8450800000000000000
+      internalID: 6092630638464116180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_92
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e909d5e6747cf0710800000000000000
+      internalID: 1661765897131233438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_93
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072a35ebf741bd690800000000000000
+      internalID: -7576439409234173328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_94
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139836f589d211e80800000000000000
+      internalID: -8209730513261065935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_95
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ea5389630c55a40800000000000000
+      internalID: 5356398672541494924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93518f0f33be5ed90800000000000000
+      internalID: -7068985431769475783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875ad9454e17f88f0800000000000000
+      internalID: -536084605147699848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e743d9c652ff75c50800000000000000
+      internalID: 6654067510664311934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5b46ffae4fc7d30800000000000000
+      internalID: 4430685423570040264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1627344aa79f40f0800000000000000
+      internalID: -1130518223902005732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_101
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866440736ac004a20800000000000000
+      internalID: 3044447256129586792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a281cb7775e9503f0800000000000000
+      internalID: -935167249101350870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_103
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccb8635762422b40800000000000000
+      internalID: 5413962713601195213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2045fd9a09f1009f0800000000000000
+      internalID: -504368452079758334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_105
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5de4cbab092b130800000000000000
+      internalID: 3581083785410565542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_106
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 120
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb948ebb108625e60800000000000000
+      internalID: 7949530648919165374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_107
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 120
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bd6e44d1c4feec0800000000000000
+      internalID: -3535523493868807358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_108
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c8f428a612856a0800000000000000
+      internalID: -6460376924126475183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_109
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dd7ebd290407350800000000000000
+      internalID: 6012376502038420837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_110
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383cbb8179436c4f0800000000000000
+      internalID: -808901259506760829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_111
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48da54dc4787eb0b0800000000000000
+      internalID: -5710994834403775100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede38b8f3438228b0800000000000000
+      internalID: -5178432293563777314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dd37101a13d7840800000000000000
+      internalID: 5223385710403509632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d316eb2dd094a30800000000000000
+      internalID: 4199903326288035211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f0ed5e4125662b0800000000000000
+      internalID: -5591691637624533091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9545fcdf87b64ad90800000000000000
+      internalID: -7087421746175847335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_117
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa36c718b4d6d640800000000000000
+      internalID: 5104501114808974071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_118
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966f58d09ef35b730800000000000000
+      internalID: 4014184913057478249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_119
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52d61c1a9c143b40800000000000000
+      internalID: 5418987699855348316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_120
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3c849dca7065290800000000000000
+      internalID: -7902120057213762617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_121
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf49304bffde0690800000000000000
+      internalID: -7633918048139128916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_122
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e0c12684c25f2f0800000000000000
+      internalID: -939796257841607072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_123
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbf0d14b46c2fa70800000000000000
+      internalID: 8859361443520248790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_124
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d66f0856f468810800000000000000
+      internalID: 1767187201163423030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_125
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f1e1b77da9644a0800000000000000
+      internalID: -6609425152845406440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_126
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6946e48de44f1ada0800000000000000
+      internalID: -5935194214423960426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_127
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c813b5e51d9b4f10800000000000000
+      internalID: 2255068755802659008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0089e1e7f875e00800000000000000
+      internalID: 1033452411346747579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_129
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425adf0f5fb908ec0800000000000000
+      internalID: -3566679424264985308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_130
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb315dc3c145f0d10800000000000000
+      internalID: 2093984832006984638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_131
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effcccb7034ed0b60800000000000000
+      internalID: 7714072633642110974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_132
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 88
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 8, z: 8, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39fa236e627ef770800000000000000
+      internalID: 8646474153033660733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_133
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5be16b9b3090970800000000000000
+      internalID: 8721506249538975145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_134
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1a46e8073cdb880800000000000000
+      internalID: -8593497625760325199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_135
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2da65f18155b020800000000000000
+      internalID: 2356879598608372461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_136
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4457c3471b82bb0800000000000000
+      internalID: -4960519876759960399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_137
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5198ec2c369b6ab0800000000000000
+      internalID: -5013748574951272101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_138
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44c942548c8b3a40800000000000000
+      internalID: 5349023482376733770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_139
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03a78536f04bc570800000000000000
+      internalID: 8487949348914045709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_140
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2750a74df0934df0800000000000000
+      internalID: -197154541171353814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_141
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be1274ee0e83f8c0800000000000000
+      internalID: -3966670652169904457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_142
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6150cf206f0132050800000000000000
+      internalID: 5774477796017177878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_143
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec5b1dd558693000800000000000000
+      internalID: 16158791663574255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30faf968865670060800000000000000
+      internalID: 6919610852087672579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_145
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0c03fde446e0000800000000000000
+      internalID: 4050939588690166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_146
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82248084a0e75f10800000000000000
+      internalID: 2258520735284994699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_147
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f932aedd767e680800000000000000
+      internalID: -8725891550193410167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_148
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 72
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7900cb997ef0bf640800000000000000
+      internalID: 5114699289200427159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_149
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35795a6a9b3ccae0800000000000000
+      internalID: -1527780639190190789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_150
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975ae974b0ecc5470800000000000000
+      internalID: 8384803154098562425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_151
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5fa9288e2615a00800000000000000
+      internalID: 743484164255970728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_152
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebc4f2636ce16430800000000000000
+      internalID: 3774557874319313898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_153
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801015319b1a5dd50800000000000000
+      internalID: 6761488231831765256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_154
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ea65e4517bec8d0800000000000000
+      internalID: -2824118614178222474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_155
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5fa4c57196765a0800000000000000
+      internalID: -6528133585796663884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_156
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b51563cadf57f360800000000000000
+      internalID: 7203331522188088756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_157
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d91cd94fd748f560800000000000000
+      internalID: 7347701816397404625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_158
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a69c7f3ae166d020800000000000000
+      internalID: 2366186312945145512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_159
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adeeb2d08b4f2410800000000000000
+      internalID: 1454464221327584680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d384ea1226713dce0800000000000000
+      internalID: -1381734950433306563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_161
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34a7db1e3c05b090800000000000000
+      internalID: -8019490100568677314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_162
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f76ae456a246880800000000000000
+      internalID: -8618717172280688875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_163
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4a812d853ad2fd0800000000000000
+      internalID: -2365054627422362417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_164
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 55
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132750fd810949980800000000000000
+      internalID: -8533036957464956367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_165
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6ba2f709892ba20800000000000000
+      internalID: 3076689241823688399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_166
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50c15d8623d3ddb0800000000000000
+      internalID: -4768235417922060198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_167
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d53b5efbc1158240800000000000000
+      internalID: 4793256946249184725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_168
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb4d4fc445538470800000000000000
+      internalID: 8395647884372822979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_169
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6cf96efb423fb90800000000000000
+      internalID: -7209378171863447902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_170
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d595fc4aabd2b4680800000000000000
+      internalID: -8769865569721689763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_171
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e319b833219f17c10800000000000000
+      internalID: 2049693161999798590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_172
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19697a805f6bccc0800000000000000
+      internalID: -3689733077988710113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_173
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865068ecda84959c0800000000000000
+      internalID: -3938036487827356312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_174
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd415aa0ef7a5b40800000000000000
+      internalID: 5429792903655411135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_175
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271461b7021a00d60800000000000000
+      internalID: 7854454911010226546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3820dd70d87425b80800000000000000
+      internalID: -8407578883299409277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_177
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801118c629e3c79d0800000000000000
+      internalID: -2775274471760523000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_178
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638d9194ae5b97040800000000000000
+      internalID: 4645944508462782518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_179
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607b20fc78a19c760800000000000000
+      internalID: 7478537826821388038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_180
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642eca0ca972b2200800000000000000
+      internalID: 156262157685416518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_181
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393a881378cd84980800000000000000
+      internalID: -8554345018980523117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_182
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc9c0d0f80336dc0800000000000000
+      internalID: -3647017882282582785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_183
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec424eab989958900800000000000000
+      internalID: 686123335068951758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_184
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5ab4633ef128870800000000000000
+      internalID: 8683538092252702197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_185
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83552d90d74c7bbc0800000000000000
+      internalID: -3767326521957395144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_186
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64489a6a51d647480800000000000000
+      internalID: -8902370623646759866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_187
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d920d6daf110e60800000000000000
+      internalID: 7926651648867474839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_188
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ac4a72cf4076b00800000000000000
+      internalID: 821630938061785652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_189
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc9b79188a427270800000000000000
+      internalID: 8246735816072338651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_190
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8431b0a06e0c6180800000000000000
+      internalID: -9120899337156479858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_191
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 24
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674eeb5c71aee8a40800000000000000
+      internalID: 5372488793322349686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925c24dacbdc194d0800000000000000
+      internalID: -3129494055801404119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_193
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07035aa2791e8b680800000000000000
+      internalID: -8738987037540667280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_194
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c532186ad9c737a0800000000000000
+      internalID: -6397422805770422844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_195
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c77d834b2b11f10800000000000000
+      internalID: 2238766976897350760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_196
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc08c39404240c40800000000000000
+      internalID: 5477542648867196111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_197
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bf0d13f0e461e40800000000000000
+      internalID: 5626770611613268812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_198
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b9bd94310cde020800000000000000
+      internalID: 2372763767770159895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_199
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616b959c048fa0b10800000000000000
+      internalID: 1948642745930855958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_200
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b37621aa05ad4710800000000000000
+      internalID: 1679179701150970802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_201
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c913b803b3514fe0800000000000000
+      internalID: -1206591196748375609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_202
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46602baea3e0d090800000000000000
+      internalID: -8011653397757270451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_203
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb34dbb2141801c20800000000000000
+      internalID: 3175179854202880955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_204
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312541a49737a8960800000000000000
+      internalID: 7605017885539586579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_205
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095a1731071cf6a20800000000000000
+      internalID: 3057875359114569104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_206
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec4c527568b9e4a0800000000000000
+      internalID: -6563512236065927959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455928ebdc40297f0800000000000000
+      internalID: -607417718030559916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_209
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5b750a00e497960800000000000000
+      internalID: 7600191610761491924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_210
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4782d4e0ed0b9a0800000000000000
+      internalID: -6219226932393249570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_211
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc7961384c90b380800000000000000
+      internalID: -8957487824959341316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_212
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909ddd7381c17ce80800000000000000
+      internalID: -8158521309616285431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_213
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e0ce6fe556431c0800000000000000
+      internalID: -4524880267056509402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_214
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2370740f2612bbf50800000000000000
+      internalID: 6898143963069744946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_215
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89b20b0018cfc790800000000000000
+      internalID: -7507562082573567601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_216
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f930ff46d967a07e0800000000000000
+      internalID: -1798494682804714593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_217
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ca207092ce5dee0800000000000000
+      internalID: -1236822861687903084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_218
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342d644810f0c4f60800000000000000
+      internalID: 8019801535628628547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_219
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc95a2856ec94ce0800000000000000
+      internalID: -1420377272079770372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_220
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c8d976f095c73d0800000000000000
+      internalID: -3207590911896875933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_221
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ba8cd2e7e860720800000000000000
+      internalID: 2812091689924602659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_222
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106dcb189c7afdb50800000000000000
+      internalID: 6620194461164819969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMB1remaketileset_zps6e48c95d_223
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a20cec42978e870800000000000000
+      internalID: 8712346678142708259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
