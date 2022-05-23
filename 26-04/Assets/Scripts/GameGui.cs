@@ -12,8 +12,6 @@ public class GameGui : MonoBehaviour
 
     public Text coinText;
     public Text scoreText;
-    public Text highScoreText;
-
 
 
     void Awake()
@@ -41,15 +39,6 @@ public class GameGui : MonoBehaviour
     {
         coinText.text = coins.ToString("00");
         scoreText.text = score.ToString("000000");
-
-        int hiScore = PlayerPrefs.GetInt("BestScore",0);
-        if (score > hiScore)
-        {
-            hiScore = score;
-            PlayerPrefs.SetInt("BestScore", score);
-            PlayerPrefs.Save();
-        }
-        highScoreText.text = hiScore.ToString("000000");
     }
 
 

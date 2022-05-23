@@ -133,6 +133,10 @@ public class CharacterController2D : MonoBehaviour
 	}
 
 
+	public bool FacingRight()
+	{
+		return m_FacingRight;
+	}
 	private void Flip()
 	{
 		// Switch the way the player is labelled as facing.
