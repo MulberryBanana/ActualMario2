@@ -4,19 +4,27 @@ using UnityEngine;
 
 public class QuestionCoin : Hittable
 {
-    public int hitAmount = 1;
+    public int CoinAmount = 1;
     public bool isBreakable = false;
+    public bool spawnsItem = false;
+    public int score = 200;
+    public GameObject spawnObject;
     protected override void ProcessHit()
     {
-        if (hitAmount > 0) {
+
+        if (CoinAmount > 0) {
             GameGui.Instance.AddCoins(1);
-            GameGui.Instance.AddScore(200);
-            hitAmount--;
+            GameGui.Instance.AddScore(score);
+            CoinAmount--;
             //TODO replace sprite? disable?
         }else if (isBreakable)
         {
             //spawn break particles
             Destroy(gameObject);
+        }else if (spawnsItem)
+        {
+            GameObject.Instantiate(spawnObject,transform.position+new Vector3(0,1,0),transform.rotation);
+            spawnsItem = false;
         }
     }
 }
