@@ -9,7 +9,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 228454218230347980, guid: f65263aeb61c51c4dad2ab4d0015cee5, type: 3}
       propertyPath: m_Name
-      value: Brick (30)
+      value: BrickBlue
       objectReference: {fileID: 0}
     - target: {fileID: 1434956818990526070, guid: f65263aeb61c51c4dad2ab4d0015cee5, type: 3}
       propertyPath: m_Sprite
@@ -61,3 +61,25 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f65263aeb61c51c4dad2ab4d0015cee5, type: 3}
+--- !u!1 &4359373971776201524 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 228454218230347980, guid: f65263aeb61c51c4dad2ab4d0015cee5, type: 3}
+  m_PrefabInstance: {fileID: 4563336512527326200}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &-920800911025674759
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4359373971776201524}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ecf595b2c6bbf44daa559173bf3d077, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CoinAmount: 0
+  isBreakable: 1
+  spawnsItem: 0
+  score: 0
+  spawnObject: {fileID: 0}
