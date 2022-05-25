@@ -116,9 +116,9 @@ public class CharacterMovement : MonoBehaviour
             MakeJump();
             if (hitCoroutine != null)
             {
-                StopCoroutine(hitCoroutine,false);
+                StopCoroutine(hitCoroutine);
             }
-            hitCoroutine = StartCoroutine(HitCoroutine(3f));
+            hitCoroutine = StartCoroutine(HitCoroutine(3f,false));
         }
         else
         {
@@ -130,9 +130,9 @@ public class CharacterMovement : MonoBehaviour
     {
         if (hitCoroutine != null)
         {
-            StopCoroutine(hitCoroutine,true);
+            StopCoroutine(hitCoroutine);
         }
-        hitCoroutine = StartCoroutine(HitCoroutine(10f));
+        hitCoroutine = StartCoroutine(HitCoroutine(10f,true));
     }
 
     IEnumerator HitCoroutine(float invincibilityTime, bool isStarman) //make useable for star invincibility
@@ -145,19 +145,19 @@ public class CharacterMovement : MonoBehaviour
         
         while (Time.time-startTime<invincibilityTime)
         {
-            List<Color> colors;
+            List<Color> colors = new List<Color>();
             if (isStarman)
             {
-                colors.append(new Color(1, 1, 1, 1));
-                colors.append(new Color(0, 1, 0, 1));
-                colors.append(new Color(1, 1, 1, 1));
-                colors.append(new Color(0, 0, 0, 1));
-                colors.append(new Color(1, 1, 1, 1));
+                colors.Add(new Color(1, 1, 1, 1));
+                colors.Add(new Color(0, 1, 0, 1));
+                colors.Add(new Color(1, 1, 1, 1));
+                colors.Add(new Color(0, 0, 0, 1));
+                colors.Add(new Color(1, 1, 1, 1));
             }
             else
             {
-                colors.append(new Color(1, 1, 1, 0));
-                colors.append(new Color(1, 1, 1, 1));
+                colors.Add(new Color(1, 1, 1, 0));
+                colors.Add(new Color(1, 1, 1, 1));
             }
 
             foreach(Color c in colors) {
