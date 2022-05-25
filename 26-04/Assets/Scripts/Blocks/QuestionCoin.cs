@@ -23,7 +23,7 @@ public class QuestionCoin : Hittable
             Destroy(gameObject);
         }else if (spawnsItem)
         {
-            GameObject.Instantiate(spawnObject,transform.position+new Vector3(0,1,0),transform.rotation);
+            GameObject.Instantiate(spawnObject, gameObject.GetComponent<Renderer>().bounds.center + Vector3.up,transform.rotation);
             spawnsItem = false;
         }
     }
