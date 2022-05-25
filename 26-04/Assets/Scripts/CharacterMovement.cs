@@ -116,9 +116,9 @@ public class CharacterMovement : MonoBehaviour
             MakeJump();
             if (hitCoroutine != null)
             {
-                StopCoroutine(hitCoroutine);
+                StopCoroutine(hitCoroutine,false);
             }
-            hitCoroutine = StartCoroutine(HitCoroutine());
+            hitCoroutine = StartCoroutine(HitCoroutine(3f));
         }
         else
         {
@@ -126,10 +126,18 @@ public class CharacterMovement : MonoBehaviour
         }
     }
 
-    IEnumerator HitCoroutine()
+    public void Starman()
+    {
+        if (hitCoroutine != null)
+        {
+            StopCoroutine(hitCoroutine,true);
+        }
+        hitCoroutine = StartCoroutine(HitCoroutine(10f));
+    }
+
+    IEnumerator HitCoroutine(float invincibilityTime, bool isStarman) //make useable for star invincibility
     {
         SpriteRenderer spriteRenderer = GetComponent<SpriteRenderer>();
-        float invincibilityTime = 3f;
         float blinkingIntensivity = .1f;
         invincibility = true;
         float startTime = Time.time;
@@ -137,10 +145,25 @@ public class CharacterMovement : MonoBehaviour
         
         while (Time.time-startTime<invincibilityTime)
         {
-            spriteRenderer.color = new Color(1,1,1,0);
-            yield return new WaitForSeconds(blinkingIntensivity);
-            spriteRenderer.color = new Color(1,1,1,1);
-            yield return new WaitForSeconds(blinkingIntensivity);
+            List<Color> colors;
+            if (isStarman)
+            {
+                colors.append(new Color(1, 1, 1, 1));
+                colors.append(new Color(0, 1, 0, 1));
+                colors.append(new Color(1, 1, 1, 1));
+                colors.append(new Color(0, 0, 0, 1));
+                colors.append(new Color(1, 1, 1, 1));
+            }
+            else
+            {
+                colors.append(new Color(1, 1, 1, 0));
+                colors.append(new Color(1, 1, 1, 1));
+            }
+
+            foreach(Color c in colors) {
+                spriteRenderer.color = c;
+                yield return new WaitForSeconds(blinkingIntensivity);
+            }
         }
         
         invincibility = false;
