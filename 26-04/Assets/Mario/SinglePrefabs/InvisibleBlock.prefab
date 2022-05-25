@@ -9,12 +9,16 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 228454218230347980, guid: f65263aeb61c51c4dad2ab4d0015cee5, type: 3}
       propertyPath: m_Name
-      value: BrickBlue
+      value: InvisibleBlock
       objectReference: {fileID: 0}
     - target: {fileID: 1434956818990526070, guid: f65263aeb61c51c4dad2ab4d0015cee5, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 6576249790921849821, guid: a014ad69ebb74f4448d25d32b4a72c87, type: 3}
+      objectReference: {fileID: 0}
+    - target: {fileID: 1434956818990526070, guid: f65263aeb61c51c4dad2ab4d0015cee5, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8120887277243289930, guid: f65263aeb61c51c4dad2ab4d0015cee5, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -66,23 +70,7 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 228454218230347980, guid: f65263aeb61c51c4dad2ab4d0015cee5, type: 3}
   m_PrefabInstance: {fileID: 4563336512527326200}
   m_PrefabAsset: {fileID: 0}
---- !u!111 &5243721758326471008
-Animation:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4359373971776201524}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Animation: {fileID: 7400000, guid: 2f1a7e8e4b593f846a3abb26661a18c7, type: 2}
-  m_Animations:
-  - {fileID: 7400000, guid: 2f1a7e8e4b593f846a3abb26661a18c7, type: 2}
-  m_WrapMode: 0
-  m_PlayAutomatically: 0
-  m_AnimatePhysics: 1
-  m_CullingType: 0
---- !u!114 &-920800911025674759
+--- !u!114 &6162160297513351797
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -94,9 +82,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5ecf595b2c6bbf44daa559173bf3d077, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animator: {fileID: 0}
   CoinAmount: 0
-  isBreakable: 1
-  spawnsItem: 0
+  isBreakable: 0
+  spawnsItem: 1
   score: 0
-  spawnObject: {fileID: 0}
+  spawnObject: {fileID: 6444609484173770376, guid: 62adf7a8933961c43849f2d6d0f31a86, type: 3}

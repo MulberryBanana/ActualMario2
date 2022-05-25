@@ -15,6 +15,8 @@ public class CharacterMovement : MonoBehaviour
     bool crouch = false;
     bool turbo = false;
 
+    public bool isFireMan = false;
+    public bool isBigMario = false;
 
     public static CharacterMovement Instance;
     private void Awake()
@@ -38,7 +40,7 @@ public class CharacterMovement : MonoBehaviour
             MakeJump();
         }
 
-        if (Input.GetKeyDown(KeyCode.X))
+        if (Input.GetKeyDown(KeyCode.X) && isFireMan)
         {
             Shoot();
             turbo = true;
@@ -49,7 +51,7 @@ public class CharacterMovement : MonoBehaviour
             turbo = false;
         }
 
-        if (Input.GetButtonDown("Crouch"))
+        if (Input.GetButtonDown("Crouch") && (isBigMario || isFireMan))
         {
             crouch = true;
         }
@@ -94,6 +96,26 @@ public class CharacterMovement : MonoBehaviour
 
     void FixedUpdate()
     {
+        //change sprite
+        SpriteRenderer spriteRenderer = GetComponent<SpriteRenderer>();
+        if (isFireMan || isBigMario)
+        {
+            if (transform.localScale.y < 1)
+            {
+                transform.localScale += new Vector3(0, +0.1f, 0);
+            }
+        }else if (isFireMan)
+        {
+            spriteRenderer.color = new Color(1,0.9f,0.9f);
+        } else
+        {
+            if (transform.localScale.y > 0.8f)
+            {
+                transform.localScale += new Vector3(0, -0.1f, 0);
+            }
+            spriteRenderer.color = new Color(1, 1, 1);
+        }
+
         // Move our character
         float speedMultiply = 1;
         if (turbo)
@@ -113,6 +135,8 @@ public class CharacterMovement : MonoBehaviour
     {
         if (!invincibility)
         {
+            bool isFireMan = false;
+            bool isBigMario = false;
             //Debug.LogWarning("Get hit!!!");
             MakeJump();
             if (hitCoroutine != null)

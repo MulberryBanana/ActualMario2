@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class MushroomGrow : Collectable
 {
-    protected override void ProcessCollect()
-    {
-        //MakeMarioBig
+    protected override void ProcessCollect() 
+    { 
+        CharacterMovement.Instance.isBigMario = true;
     }
 }

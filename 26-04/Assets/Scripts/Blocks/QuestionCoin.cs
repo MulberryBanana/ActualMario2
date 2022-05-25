@@ -8,7 +8,7 @@ public class QuestionCoin : Hittable
     public bool isBreakable = false;
     public bool spawnsItem = false;
     public int score = 200;
-    public GameObject spawnObject;
+    public List<GameObject> spawnObjects = new List<GameObject>();
     protected override void ProcessHit()
     {
 
@@ -16,15 +16,16 @@ public class QuestionCoin : Hittable
             GameGui.Instance.AddCoins(1);
             GameGui.Instance.AddScore(score);
             CoinAmount--;
-            //TODO replace sprite? disable?
-        }else if (isBreakable)
+            //gameObject.GetComponent<Animation>().Play();
+        } else if (spawnsItem)
+        {
+            int index = Random.Range(0, spawnObjects.Count);
+            GameObject.Instantiate(spawnObjects[index], gameObject.GetComponent<Renderer>().bounds.center + Vector3.up,transform.rotation);
+            spawnsItem = false;
+        } else if (isBreakable)
         {
             //spawn break particles
             Destroy(gameObject);
-        }else if (spawnsItem)
-        {
-            GameObject.Instantiate(spawnObject, gameObject.GetComponent<Renderer>().bounds.center + Vector3.up,transform.rotation);
-            spawnsItem = false;
         }
     }
 }
