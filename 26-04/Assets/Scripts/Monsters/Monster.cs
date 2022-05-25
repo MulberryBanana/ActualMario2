@@ -16,7 +16,7 @@ public class Monster : MonoBehaviour
     public bool damagePlayerWhenJump = false;
 
 
-    [Header("Diriection - 1 = right, -1 = left")]
+    [Header("Direction - 1 = right, -1 = left")]
     public float directionX = 1;
 
     public float Speed = 3;

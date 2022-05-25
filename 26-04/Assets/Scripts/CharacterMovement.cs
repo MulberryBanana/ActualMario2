@@ -70,7 +70,7 @@ public class CharacterMovement : MonoBehaviour
     public Transform bulletTarget;
     void Shoot()
     {
-        GameObject go=Instantiate(bulletPrefab);
+        GameObject go = Instantiate(bulletPrefab);
         go.transform.position = bulletTarget.position;
         float shootingSpeed = 20;
         float side = 1;
@@ -78,10 +78,10 @@ public class CharacterMovement : MonoBehaviour
         {
             side = -1;
         }
-        go.GetComponent<Rigidbody2D>().AddForce(new Vector2(side * 1,-0.4f)*shootingSpeed, ForceMode2D.Impulse);
+        go.GetComponent<Rigidbody2D>().AddForce(new Vector2(side * 1, -0.4f) * shootingSpeed, ForceMode2D.Impulse);
 
     }
-    
+
     public void OnLanding()
     {
         animator.SetBool("IsJumping", false);
@@ -108,6 +108,7 @@ public class CharacterMovement : MonoBehaviour
 
     private Coroutine hitCoroutine;
     public bool invincibility = false;
+    public bool isStarman = false;
     public void GetHit()
     {
         if (!invincibility)
@@ -118,7 +119,7 @@ public class CharacterMovement : MonoBehaviour
             {
                 StopCoroutine(hitCoroutine);
             }
-            hitCoroutine = StartCoroutine(HitCoroutine(3f,false));
+            hitCoroutine = StartCoroutine(HitCoroutine(3f, false));
         }
         else
         {
@@ -132,25 +133,25 @@ public class CharacterMovement : MonoBehaviour
         {
             StopCoroutine(hitCoroutine);
         }
-        hitCoroutine = StartCoroutine(HitCoroutine(10f,true));
+        hitCoroutine = StartCoroutine(HitCoroutine(10f, true));
     }
 
-    IEnumerator HitCoroutine(float invincibilityTime, bool isStarman) //make useable for star invincibility
+    IEnumerator HitCoroutine(float invincibilityTime, bool collectedStar) //make useable for star invincibility
     {
         SpriteRenderer spriteRenderer = GetComponent<SpriteRenderer>();
         float blinkingIntensivity = .1f;
         invincibility = true;
         float startTime = Time.time;
-        
-        
-        while (Time.time-startTime<invincibilityTime)
+
+
+        while (Time.time - startTime < invincibilityTime)
         {
             List<Color> colors = new List<Color>();
-            if (isStarman)
+            if (collectedStar)
             {
-                colors.Add(new Color(1, 1, 1, 1));
+                colors.Add(new Color(1, 0, 0, 1));
                 colors.Add(new Color(0, 1, 0, 1));
-                colors.Add(new Color(1, 1, 1, 1));
+                colors.Add(new Color(1, 0, 0, 1));
                 colors.Add(new Color(0, 0, 0, 1));
                 colors.Add(new Color(1, 1, 1, 1));
             }
@@ -160,12 +161,25 @@ public class CharacterMovement : MonoBehaviour
                 colors.Add(new Color(1, 1, 1, 1));
             }
 
-            foreach(Color c in colors) {
+            foreach (Color c in colors) {
                 spriteRenderer.color = c;
                 yield return new WaitForSeconds(blinkingIntensivity);
             }
         }
-        
-        invincibility = false;
+
+        if (collectedStar) {
+            isStarman = false;
+        }
+        else
+        {
+            invincibility = false;
+        }
+    }
+
+    void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.gameObject.CompareTag("Enemy")){
+            other.gameObject.GetComponent<Monster>().Hit();
+        }
     }
 }

@@ -6,6 +6,8 @@ public class Star : Collectable
 {
     protected override void ProcessCollect()
     {
-        //GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerStates>().isStarman = true;
+      
+        CharacterMovement.Instance.Starman();
+        //GameObject.FindGameObjectWithTag("Player").GetComponent<CharacterMovement>().Starman();
     }
 }
