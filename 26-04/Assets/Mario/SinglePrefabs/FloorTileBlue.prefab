@@ -13,11 +13,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1560566592362461196, guid: fcccdf6379336e3469e7401fdb4a75a6, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 43.84871
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1560566592362461196, guid: fcccdf6379336e3469e7401fdb4a75a6, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -10.080536
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1560566592362461196, guid: fcccdf6379336e3469e7401fdb4a75a6, type: 3}
       propertyPath: m_LocalPosition.z
@@ -57,7 +57,7 @@ PrefabInstance:
       objectReference: {fileID: -3309781605116015348, guid: a014ad69ebb74f4448d25d32b4a72c87, type: 3}
     - target: {fileID: 7025123527585070907, guid: fcccdf6379336e3469e7401fdb4a75a6, type: 3}
       propertyPath: m_Name
-      value: FloorTile
+      value: FloorTileBlue
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fcccdf6379336e3469e7401fdb4a75a6, type: 3}
