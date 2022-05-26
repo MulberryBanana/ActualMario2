@@ -6,6 +6,6 @@ public class MushroomOneUp : Collectable
 {
     protected override void ProcessCollect()
     {
-       //AddOneup
+        GameGui.Instance.AddOneup();
     }
 }

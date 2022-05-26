@@ -8,6 +8,6 @@ public class Star : Collectable
     {
       
         CharacterMovement.Instance.Starman();
-        //GameObject.FindGameObjectWithTag("Player").GetComponent<CharacterMovement>().Starman();
+        GameGui.Instance.AddStar();
     }
 }

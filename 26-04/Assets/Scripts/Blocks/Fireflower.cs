@@ -7,5 +7,6 @@ public class Fireflower : Collectable
     protected override void ProcessCollect()
     {
         CharacterMovement.Instance.isFireMan = true;
+        GameGui.Instance.AddFireflower();
     }
 }
